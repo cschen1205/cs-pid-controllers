@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cs-pid-controllers", "cs-pid-controllers\cs-pid-controllers.csproj", "{66CF696D-8938-416C-BC73-A655CF9258A0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cs-pid-controllers-samples", "cs-pid-controllers-samples\cs-pid-controllers-samples.csproj", "{801C591C-54B5-4E48-AEA8-9E6FAF478D47}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{66CF696D-8938-416C-BC73-A655CF9258A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66CF696D-8938-416C-BC73-A655CF9258A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66CF696D-8938-416C-BC73-A655CF9258A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66CF696D-8938-416C-BC73-A655CF9258A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{801C591C-54B5-4E48-AEA8-9E6FAF478D47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{801C591C-54B5-4E48-AEA8-9E6FAF478D47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{801C591C-54B5-4E48-AEA8-9E6FAF478D47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{801C591C-54B5-4E48-AEA8-9E6FAF478D47}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
